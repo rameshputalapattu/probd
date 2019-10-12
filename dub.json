@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Ramesh"
+	],
+	"copyright": "Copyright © 2019, Ramesh",
+	"description": "A minimal D application.",
+	"license": "MIT",
+	"name": "probd"
+}

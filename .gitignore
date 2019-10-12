@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/discreteprob
+discreteprob.so
+discreteprob.dylib
+discreteprob.dll
+discreteprob.a
+discreteprob.lib
+discreteprob-test-*
+*.exe
+*.o
+*.obj
+*.lst
